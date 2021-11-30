@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OTOGS
-- 👀 I’m interested in Programação e Ciências Exatas
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programação e Ciências Exatas.
+- 🌱 I’m currently learning  HTML5, CSS3 e JS.
+- 💞️ I’m looking to collaborate on Nada no momento.
 - 📫 How to reach me ...
 
 <!---
